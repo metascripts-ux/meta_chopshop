@@ -69,7 +69,7 @@ Meta Chop Shop is an advanced vehicle chopping system that allows players to dis
 ## 📦 Dependencies
 
 - [qb-core](https://github.com/qbcore-framework/qb-core) or [es_extended](https://github.com/esx-framework/esx-legacy)
-- [ox_lib](https://github.com/overextended/ox_lib) (optional)
+- [ox_lib](https://github.com/overextended/ox_lib)
 - [qb-target](https://github.com/qbcore-framework/qb-target) or [ox_target](https://github.com/overextended/ox_target)
 
 ## 🎒 Required Items
