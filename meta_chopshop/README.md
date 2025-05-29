@@ -196,17 +196,6 @@ The following items need to be added to your inventory system:
 }
 ```
 
-### Tools Required
-```lua
-['toolbox'] = {
-    label = 'Toolbox',
-    weight = 2000,
-    stack = false,
-    close = true,
-    description = 'Required for removing vehicle parts'
-}
-```
-
 Note: You'll need to add corresponding images for these items in your inventory system's image folder.
 
 ## Installation
@@ -294,17 +283,12 @@ The resource has been optimized for performance:
    - Adjust configuration as needed
    - Regular maintenance of vehicle parts
 
-## Commands
-
-- `/chopshop` - Open the chop shop menu
-- `/chopmode` - Toggle chop mode
-- `/chophistory` - View chop history
 
 ## Support
 
 For support, please:
 1. Check the [documentation](docs/README.md)
-2. Join our [Discord server](https://discord.gg/your-discord)
+2. Join our Discord: [discord.gg/gyHsE3ZvQs](https://discord.gg/gyHsE3ZvQs)
 3. Open an issue on GitHub
 
 ## License
@@ -324,25 +308,3 @@ This resource is licensed under the MIT License - see the [LICENSE](LICENSE) fil
 - Basic chop shop functionality
 - Material exchange system
 - Police integration
-
-### Version 1.1.0
-- Added multiple part buyer locations
-- Enhanced material exchange system
-- Improved performance
-- Added blip toggle options
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## Roadmap
-
-- [ ] Advanced vehicle damage system
-- [ ] More material types
-- [ ] Enhanced police integration
-- [ ] Additional part types
-- [ ] Mobile app integration 
